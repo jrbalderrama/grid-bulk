@@ -1,0 +1,5 @@
+usage: grid-bulk-cpy /my/local/path/file /grid/path/directory [<storage element> [threads]]
+usage: grid-bulk-cpy /my/local/path/directory /grid/path/directory [<storage element> [threads]]
+
+usage: grid-bulk-del /grid/path/directory 
+usage: grid-bulk-del /grid/path/file 
